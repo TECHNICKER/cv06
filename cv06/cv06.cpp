@@ -1,12 +1,8 @@
-﻿// cv06.cpp : Defines the entry point for the application.
-//
-
-#include "cv06.h"
-
-using namespace std;
+﻿#include "cv06.h"
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	char text[] = "Toto jsou 2 vzorove vety, ktere budou zpracovavany Vasemi funkcemi.Auto Hyundai ix35 ma pres 120 konskych sil.";
+
 	return 0;
 }
